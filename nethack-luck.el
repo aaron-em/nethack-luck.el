@@ -169,7 +169,7 @@ You are lucky! Full moon tonight.
 the moon."
   ;; I looked at http://www.emacswiki.org/emacs/MultilineRegexp and it
   ;; scared me; I'm not all that good with multiline regexes even when
-  ;; they're PCRE ones, and despite (or perhaps because if) almost
+  ;; they're PCRE ones, and despite (or perhaps because of) almost
   ;; twenty years of experience with Perl regular expressions, my
   ;; grasp of Emacs' dialect of same remains shaky. Thus, the
   ;; following, which certainly isn't any worse than a regex would be:
